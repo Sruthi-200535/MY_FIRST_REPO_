@@ -1,4 +1,0 @@
-Name  : K.Kamala Sruthi
-Course: Bsc.Data Science
-One Thing Learned about GitHub
-It is a online platform to publish our files or projects to have a collaborative experience where our files can be seen by anyone or we can even look into the other projects that are uploaded.
