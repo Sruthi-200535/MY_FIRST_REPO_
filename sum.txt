@@ -1,3 +1,4 @@
 a=8
 b=10
-print("sum of a and b",a+b)
+c=15
+print("sum of a, b and c",a+b+c)
